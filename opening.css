@@ -1,0 +1,52 @@
+body{background-color:black}
+
+.logo
+{padding-top: 60px;
+	padding-bottom: 	
+ }
+
+ .welcome
+ {
+ 	font-size: 75px;
+ 	color: #182FFF;
+ }
+
+ .nes1
+ {
+ 	text-align: center;
+ 	font-size: 50px;
+ 	color: yellow;	
+ 	padding-top: 10px;
+ }
+
+.language
+{
+
+	font-size: 25px;
+	padding-top: 10px;
+	color: white
+}
+
+.indonesia
+{
+	text-align: center;
+	padding-top: 20px
+}
+
+.inggris
+{
+	text-align: center;
+	padding-top: 20px
+}
+
+.instagram
+{
+	text-align: center;
+	padding-top: 20px
+}
+
+.follow
+{
+	margin-top: 10px;
+	color: yellow;
+}
