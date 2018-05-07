@@ -28,41 +28,93 @@ body
 
 .content1
 {
+	color: white;
+	text-align: center;
 	margin-top: 10px;
-	border: 1px solid white;
+	border: 2px solid white;
 	padding: 10px;
 	background-color: black;
-	width: 100%;
+	width: 50%;
 	height: 50px;
 }
 
 .content2
 {
+	color: white;
+	text-align: center;
+	margin-left: 125px;
 	margin-top: 10px;
-	border: 1px solid white;
+	border: 2px solid white;
 	padding: 10px;
 	background-color: black;
-	width: 100%;
+	width: 50%;
 	height: 50px;
 }
 
 .content3
 {
+	color: white;
+	text-align: center; 
+	margin-left: 125px;
 	margin-top: 10px;
-	border: 1px solid white;
+	border: 2px solid white;
 	padding: 10px;
 	background-color: black;
-	width: 100%;
+	width: 50%;
 	height: 50px;
 }
 
 .content4
 {
+	color: white;
+	text-align: center;
+	margin-left: 130px;
 	margin-top: 10px;
-	border: 1px solid white;
+	border: 2px solid white;
 	padding: 10px;
 	background-color: black;
-	width: 100%;
+	width: 50%;
 	height: 50px;
 }
 
+.body
+{
+	margin-top: 25px;
+	border: 1px solid white;
+	padding: 15px;
+	background-color: black;
+	width: 100%;
+	height: 1000px;
+}
+
+.div1
+{
+	margin-top: 10px;
+}
+
+.div2
+{
+	margin-top: 25px;
+}
+
+.div3
+{
+	margin-top: 25px;
+}
+
+.end
+{
+	margin-top: 25px;
+	border: 1px solid white;
+	padding: 15px;
+	background-color: black;
+	width: 100%;
+	height: 350px;
+	color: white;
+}
+
+.copyright
+{
+	text-align: center;
+	margin-top: 60px;	
+}

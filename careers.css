@@ -1,0 +1,105 @@
+body
+{
+	width: 100%;
+	height: 100%;
+	background-image: url(header.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+.header
+{
+	border: 1px solid white;
+	padding: 15px;
+	background-color: border;
+	width: 100%;
+	height: 180px;
+}
+
+.border
+{
+	border: 1px solid white;
+	padding: 21px;
+	margin-top: 20px;
+	background-color: black;
+}
+
+.content1
+{
+	color: white;
+	text-align: center;
+	margin-top: 10px;
+	border: 2px solid white;
+	padding: 10px;
+	background-color: black;
+	width: 50%;
+	height: 50px;
+}
+
+.content2
+{
+	color: white;
+	text-align: center;
+	margin-left: 125px;
+	margin-top: 10px;
+	border: 2px solid white;
+	padding: 10px;
+	background-color: black;
+	width: 50%;
+	height: 50px;
+}
+
+.content3
+{
+	color: white;
+	text-align: center; 
+	margin-left: 125px;
+	margin-top: 10px;
+	border: 2px solid white;
+	padding: 10px;
+	background-color: black;
+	width: 50%;
+	height: 50px;
+}
+
+.content4
+{
+	color: white;
+	text-align: center;
+	margin-left: 130px;
+	margin-top: 10px;
+	border: 2px solid white;
+	padding: 10px;
+	background-color: black;
+	width: 50%;
+	height: 50px;
+}
+
+.body
+{
+	margin-top: 25px;
+	border: 1px solid white;
+	padding: 15px;
+	background-color: black;
+	width: 100%;
+	height: 580px;
+}
+
+.end
+{
+	margin-top: 25px;
+	border: 1px solid white;
+	padding: 15px;
+	background-color: black;
+	width: 100%;
+	height: 350px;
+	color: white;
+}
+
+.copyright
+{
+	text-align: center;
+	margin-top: 60px;	
+}
